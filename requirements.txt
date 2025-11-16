@@ -1,0 +1,9 @@
+praw
+requests
+numpy
+pandas
+matplotlib
+pillow
+reportlab
+scikit-learn
+openai>=1.0.0
